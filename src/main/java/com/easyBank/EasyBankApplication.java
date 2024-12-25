@@ -35,6 +35,7 @@ import io.swagger.v3.oas.annotations.info.License;
 public class EasyBankApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hello git");
 		SpringApplication.run(EasyBankApplication.class, args);
 	}
 
